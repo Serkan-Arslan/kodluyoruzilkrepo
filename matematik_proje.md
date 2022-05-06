@@ -1,4 +1,4 @@
-#Diferansiyel Denklemler
+# Diferansiyel Denklemler
 Diferansiyel denklem, bir fonksiyonun kendisi, türevleri ve değişkenleri arasındaki ilişkiyi tanımlayan denklemdir. 
 Fonksiyonun birinci türevi dışında daha üst mertebedentürevleri de söz konusu olabilir. 
 Diferansiyel denklemlerin genel bir çözümü olmadığından, diferansiyel denklemler sınıflandırılarak çözüm yolları bulunmuştur.
